@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/carlhndrxx" target="blank"><img src="https://img.shields.io/twitter/follow/carlhndrxx?logo=twitter&style=for-the-badge" alt="carlhndrxx" /></a> </p>
 
-- 🔭 I’m currently working on **virtual classroom and an electronic assessment system**
+- 🔭 I’m currently working on **virtual classroom and electronic assessment system**
 
 - 🌱 I’m currently learning **python(AI)**
 
-- 👯 I’m looking to collaborate on **virtual classroom and an electronic assessment system**
+- 👯 I’m looking to collaborate on **virtual classroom and  electronic assessment system**
 
 - 🤝 I’m looking for help with **flutter**
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/carlhndrxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="carlhndrxx" height="30" width="40" /></a>
+<a href="https://twitter.com/Davidhndrxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="Davidhndrxx" height="30" width="40" /></a>
 <a href="https://fb.com/david hendrix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="david hendrix" height="30" width="40" /></a>
 <a href="https://instagram.com/_davidhendrix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="_davidhendrix" height="30" width="40" /></a>
 </p>
