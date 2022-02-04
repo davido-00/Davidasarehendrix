@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **virtual classroom and electronic assessment system**
 
-- 🌱 I’m currently learning **python(AI)**
+- 🌱 I’m also learning **python(AI)** at the moment.
 
 - 👯 I’m looking to collaborate on **virtual classroom and  electronic assessment system**
 
