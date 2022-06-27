@@ -13,8 +13,6 @@
 
 - 🌱 I’m also learning **python(AI)** at the moment.
 
-- 🤝 I’m looking for help with **flutter**
-
 - 💬 Ask me about **php and python😊**
 
 - 📫 How to reach me **yawbanksone@gmail.com / prodbydavidhendrix@gmail.com**
