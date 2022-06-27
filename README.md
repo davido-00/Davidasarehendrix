@@ -9,19 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/carlhndrxx" target="blank"><img src="https://img.shields.io/twitter/follow/carlhndrxx?logo=twitter&style=for-the-badge" alt="carlhndrxx" /></a> </p>
 
-- 🔭 I’m currently working on **virtual classroom and electronic assessment system**
+- 🔭 I’m currently working on ** A Digitization Project For Takoradi Harbour's Monitoring Unit (Ghana, West Africa)**
 
 - 🌱 I’m also learning **python(AI)** at the moment.
 
-- 👯 I’m looking to collaborate on **virtual classroom and  electronic assessment system**
-
 - 🤝 I’m looking for help with **flutter**
 
-- 💬 Ask me about **php😊**
+- 💬 Ask me about **php and python😊**
 
-- 📫 How to reach me **yawbanksone@gmail.com / asaredavidappiah@gmail.com**
+- 📫 How to reach me **yawbanksone@gmail.com / prodbydavidhendrix@gmail.com**
 
-- ⚡ Fun fact **ctopuses lay 56,000 eggs at a time**
+- ⚡ Fun fact **octopuses lay 56,000 eggs at a time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
