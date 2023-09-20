@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/carlhndrxx" target="blank"><img src="https://img.shields.io/twitter/follow/carlhndrxx?logo=twitter&style=for-the-badge" alt="carlhndrxx" /></a> </p>
 
-- 🔭 I’m currently working on ** A Digitization Project For Takoradi Harbour's Monitoring Unit (Ghana, West Africa)**
+- 🔭 I’m currently working on ** A Digitization Project For Takoradi Harbour's Monitoring and Estate Unit (Ghana, West Africa)**
 
 - 🌱 I’m also learning **python(AI)** at the moment.
 
-- 💬 Ask me about **php and python😊**
+- 💬 Ask me about **js and python😊**
 
-- 📫 How to reach me **yawbanksone@gmail.com / prodbydavidhendrix@gmail.com**
+- 📫 How to reach me **davidasarehendrix@gmail.com / prodbydavidhendrix@gmail.com**
 
 - ⚡ Fun fact **octopuses lay 56,000 eggs at a time**
 
